@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Owners>
+  <OwnerId>6</OwnerId>
+  <OwnerType>TEST</OwnerType>
+  <Name><![CDATA[MyFlight-6]]></Name>
+  <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+  <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+  <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+  <Owner>
+    <OwnerId>6</OwnerId>
+    <OwnerType>TEST</OwnerType>
+    <Name><![CDATA[MyFlight-6]]></Name>
+    <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+    <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+    <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+    <Relation>
+      <RelatedId>1016</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Main Test Flow]]></Name>
+      <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+      <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+      <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>1015</RelatedId>
+      <RelatedType>RESOURCES</RelatedType>
+      <Name><![CDATA[DefaultWeb.qrs]]></Name>
+      <FSRoot><![CDATA[resources\1015]]></FSRoot>
+      <FSPath><![CDATA[resources\1015]]></FSPath>
+      <QCPath><![CDATA[Resources\BPT Resources\Recovery Scenarios\DefaultWeb.qrs]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>4</Order>
+      <FileName>DefaultWeb.qrs</FileName>
+      <SubType>Recovery scenario</SubType>
+    </Relation>
+    <Relation>
+      <RelatedId>1017</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+      <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+      <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>1018</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Action1]]></Name>
+      <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+      <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+      <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>1021</RelatedId>
+      <RelatedType>RESOURCES</RelatedType>
+      <Name><![CDATA[denys_data_table]]></Name>
+      <FSRoot><![CDATA[resources\1021]]></FSRoot>
+      <FSPath><![CDATA[resources\1021]]></FSPath>
+      <QCPath><![CDATA[Resources\BPT Resources\data_tables\denys_data_table]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>2</Order>
+      <FileName>data_table_denys.xls</FileName>
+      <SubType>Data table</SubType>
+    </Relation>
+    <Relation>
+      <RelatedId>1004</RelatedId>
+      <RelatedType>RESOURCES</RelatedType>
+      <Name><![CDATA[Java.txt]]></Name>
+      <FSRoot><![CDATA[resources\1004]]></FSRoot>
+      <FSPath><![CDATA[resources\1004]]></FSPath>
+      <QCPath><![CDATA[Resources\BPT Resources\Libraries\Java.txt]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>3</Order>
+      <FileName>Java.txt</FileName>
+      <SubType>Function library</SubType>
+    </Relation>
+    <Relation>
+      <RelatedId>1020</RelatedId>
+      <RelatedType>RESOURCES</RelatedType>
+      <Name><![CDATA[variables]]></Name>
+      <FSRoot><![CDATA[resources\1020]]></FSRoot>
+      <FSPath><![CDATA[resources\1020]]></FSPath>
+      <QCPath><![CDATA[Resources\env_variables\variables]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>5</Order>
+      <FileName>env-variables.xml</FileName>
+      <SubType>Environment variables</SubType>
+    </Relation>
+  </Owner>
+  <Owner>
+    <OwnerId>1018</OwnerId>
+    <OwnerType>USER_ASSETS</OwnerType>
+    <Name><![CDATA[Action1]]></Name>
+    <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+    <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+    <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+    <Relation>
+      <RelatedId>1017</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSRoot><![CDATA[Test\6\6\6]]></FSRoot>
+      <FSPath><![CDATA[Test\6\6\6]]></FSPath>
+      <QCPath><![CDATA[Subject\FlightApp\MyFlight-6]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>1</Order>
+    </Relation>
+    <Relation>
+      <RelatedId>1022</RelatedId>
+      <RelatedType>RESOURCES</RelatedType>
+      <Name><![CDATA[denys_obj_repo]]></Name>
+      <FSRoot><![CDATA[resources\1022]]></FSRoot>
+      <FSPath><![CDATA[resources\1022]]></FSPath>
+      <QCPath><![CDATA[Resources\BPT Resources\Object Repositories\denys_obj_repo]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>7</Order>
+      <FileName>Denys.tsr</FileName>
+      <SubType>Shared object repository</SubType>
+    </Relation>
+  </Owner>
+</Owners>
