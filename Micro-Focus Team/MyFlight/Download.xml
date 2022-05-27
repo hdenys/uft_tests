@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Owners>
+  <OwnerId>1501</OwnerId>
+  <OwnerType>TEST</OwnerType>
+  <Name><![CDATA[MyFlight]]></Name>
+  <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+  <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+  <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+  <Owner>
+    <OwnerId>1501</OwnerId>
+    <OwnerType>TEST</OwnerType>
+    <Name><![CDATA[MyFlight]]></Name>
+    <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+    <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+    <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+    <Relation>
+      <RelatedId>5201</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Main Test Flow]]></Name>
+      <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+      <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+      <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>5202</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+      <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+      <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>5203</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Action1]]></Name>
+      <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+      <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+      <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+    </Relation>
+  </Owner>
+  <Owner>
+    <OwnerId>5203</OwnerId>
+    <OwnerType>USER_ASSETS</OwnerType>
+    <Name><![CDATA[Action1]]></Name>
+    <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+    <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+    <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+    <Relation>
+      <RelatedId>5202</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSRoot><![CDATA[Test\1501\1501\1501]]></FSRoot>
+      <FSPath><![CDATA[Test\1501\1501\1501]]></FSPath>
+      <QCPath><![CDATA[Subject\Micro-Focus Team\This is a long path folder_LEVEL1\Denys\MyFlight]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>1</Order>
+    </Relation>
+  </Owner>
+</Owners>
