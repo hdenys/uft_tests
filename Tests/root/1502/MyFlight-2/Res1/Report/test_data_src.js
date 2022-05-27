@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'D:\\_OCTANE\\Idea_Workspace\\ALMOctaneJavaRESTSDK\\uft-export\\DEFAULT_Amadeus\\Tests\\root\\1502\\MyFlight-2\\Res1',namePairs:[]}]};
